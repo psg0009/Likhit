@@ -22,7 +22,8 @@ Likhit employs cutting-edge technology to guide you on your journey towards hand
 1. *📘 Dynamic Learning*: Generates phrases, sentences, or character strings targeting specific letters or areas you're struggling with.
 2. *🔍 Feedback Loop*: Users can input their handwritten attempts either by uploading a photo or drawing directly on the platform. OCR technology then parses and scores the handwriting, offering constructive feedback.
 3. *📈 Progress Tracking*: It's not just about practice; it's about progress. Track your improvement over time and set new challenges.
-![Working Flow Image](./path_to_workflow.jpg)
+
+
 ## 💡 *How We Built It*
 With a balanced mix of creativity and technical prowess, the team utilized:
 - *🖥 Front-end*: A sleek interface designed with Flexbox layouts, powered by p5.js for canvas writing and Javascript for dynamic interactions.
@@ -37,7 +38,8 @@ However, the results speak for themselves:
 - *🤝 Team Synergy*: Despite being our first collaborative project and many of us diving into new territories, the team's unity and shared vision were our biggest assets.
 
 - *👥 Community & Progress*: With plans for user authentication and a database, learners can save their progress, compete in challenges, and be part of a community that values the art of handwriting.
-![Future Image](./path_to_future.jpg)
+
+
 ---
 Because the beauty of words isn't just in their meaning, but also in their form. Join us in reigniting the love for handwritten letters. ✍❤
 ---
