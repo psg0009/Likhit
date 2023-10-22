@@ -1,5 +1,5 @@
 # 🖋 Likhit 🖋
-# Crafting Elegance, One Stroke at a Time
+# Crafting Elegance, Where Penmanship meets Perfection
 
 ## *Inspiration*
 
@@ -24,18 +24,18 @@ Likhit employs cutting-edge technology to guide you on your journey towards hand
 With a balanced mix of creativity and technical prowess, the team utilized:
 
 - *🖥 Front-end*: A sleek interface designed with Flexbox layouts, powered by p5.js for canvas writing and Javascript for dynamic interactions.
-- *🌐 Back-end*: A robust Flask API that bridges the user interface with the powerful OCR and ChatGPT-4 model. This allows for real-time feedback and personalized phrase generation.
-- *🧠 Smart Algorithms*: Python-driven sequence alignment algorithms to match, score, and analyze user handwriting against ideal standards.
+- *🌐 Back-end*: A robust Flask API that bridges the user interface with powerful OCR and ChatGPT-4 model. This allows for real-time feedback and personalized phrase generation.
+- *🧠 Smart Algorithms*: Python-driven sequence alignment algorithms match, score, and analyze user handwriting against ideal standards.
 
 ## 🏆 *Challenges & Triumphs*
 
-Building the 'Handwriting Teacher' was not without its challenges. From conceptual dilemmas to the nuances of text recognition, the journey was intense. Sleep? Well, let's just say it was a luxury. 
+Building Likhit was not without its own challenges. From conceptual dilemmas to the nuances of text recognition, the journey was intense to say the least. The path to the final product was filled with numerous blocks and dead ends.
 
 However, the results speak for themselves:
 
-- *✅ High Accuracy*: Our text recognition and matching capabilities are second to none.
+- *High Accuracy*: Our text recognition and matching capabilities are second to none.
 - *💬 Innovative Use of GPT-4*: We harnessed the capabilities of Chat GPT-4 for targeted learning phrase generation.
-- *🤝 Team Synergy*: Despite being our first collaborative project and many of us diving into new territories, the team's unity and shared vision were our biggest assets.
+- *🤝 Team Synergy*: Despite being our first collaborative project and many of us being first time hackers, the team's unity and shared vision were our biggest assets.
 
 ## 🌐 *The Future of Handwriting Teacher*
 
