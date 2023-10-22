@@ -1,0 +1,5 @@
+biopython
+easyocr
+Flask
+openai
+numpy
