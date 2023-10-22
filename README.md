@@ -1,7 +1,7 @@
 
 # 🖋 Handwriting Teacher: Rediscovering the Art of Handwriting 📜
-# 🖋 Likhit 🖋
-# Crafting Elegance, One Stroke at a Time
+
+# Crafting Elegance, Where Penmanship meets Perfection
 
 ## 🌟 *Inspiration*
 ## *Inspiration*
