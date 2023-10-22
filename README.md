@@ -1,5 +1,5 @@
 
-# 🖋 Handwriting Teacher: Rediscovering the Art of Handwriting 📜
+# 🖋 Likhit: Rediscovering the Art of Handwriting 📜
 
 # Crafting Elegance, Where Penmanship meets Perfection
 
