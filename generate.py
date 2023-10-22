@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = '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'
+openai.api_key = '<ENTER OPENAI KEY>'
 
 
 def generate_prompt(word_count: int, targets: list[str]) -> str:
