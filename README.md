@@ -4,7 +4,7 @@
 # Crafting Elegance, Where Penmanship meets Perfection
 
 ## 🌟 *Inspiration*
-## *Inspiration*
+
 
 In the digital age, the gentle strokes and arcs of handwritten letters have faded away. The tactile pleasure of a pen gliding on paper and the distinct personality of every hand is on the brink of becoming a lost art. Many, especially those learning a new script or those whose schooling didn't emphasize handwriting, find themselves struggling with clear, legible script.
 In the age of instant messaging and fleeting digital interactions, the raw authenticity and intimacy of handwritten notes have become rare treasures. Every curve, every stroke, every flourish of a handwritten letter holds a story, an emotion, a piece of someone's essence. It wasn't just about writing; it was about expressing oneself in the purest form. Recognizing this lost connection, and driven by personal struggles with mastering scripts, the idea of 'Likhit' was born. We aspired to create a bridge between the digital age and the age-old art of penmanship, enabling individuals to rediscover the joy and elegance of writing by hand. Through Likhit, we aim to reignite that personal touch in communication, ensuring that the beauty of handwriting thrives in our digital world.
@@ -15,7 +15,7 @@ Enter the *Likhit* - born out of a personal struggle with writing and love for t
 ## 🚀 *What It Does*
 
 The Handwriting Teacher employs cutting-edge technology to guide you on your journey towards mastery:
-## *What It Does*
+
 
 Likhit employs cutting-edge technology to guide you on your journey towards handwriting mastery:
 
