@@ -1,5 +1,5 @@
 
-# 🖋 Likhit: Rediscovering the Art of Handwriting 📜
+# 🖋 Likhit📜
 
 # Crafting Elegance, Where Penmanship meets Perfection
 
